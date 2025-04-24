@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 Varick ganteng 🤩")
+st.title("🎈 Varick Ganteng 🤩")
 st.write(
     "aku gatau kenapa aku ganteng banget 😍"
 )
